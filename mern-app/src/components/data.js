@@ -1,0 +1,22 @@
+export const UserData = [
+    {
+      class:1,
+      students:30,
+    },
+    {
+        class:2,
+        students:25,
+    },
+    {
+        class:3,
+        students:35,
+    },
+    {
+        class:4,
+        students:33,
+    },
+    {
+        class:5,
+        students:38,
+    },
+  ];
